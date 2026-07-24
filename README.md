@@ -10,7 +10,7 @@
 
 **B.Sc. Physics Student**
 
-*Pontificia Universidad Católica de Valparaíso*
+*Pontificia Universidad Católica de Valparaíso · Chile*
 
 Astronomy • Planetary Science • Astrobiology • Scientific Computing
 
