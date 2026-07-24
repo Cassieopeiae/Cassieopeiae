@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="banner.avif" alt="GitHub Banner" width="100%">
 ✨
 
 # 🌌 Welcome to my corner of the Universe
