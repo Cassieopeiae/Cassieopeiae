@@ -18,7 +18,7 @@ Astronomy • Planetary Science • Astrobiology • Scientific Computing
 
 </div>
 
-## 🌸 About Me
+## ☾ About Me
 
 A Physics student from Chile with a strong interest in Astronomy and Planetary Science.
 
@@ -26,7 +26,7 @@ I'm especially fascinated by the formation of planetary systems, protoplanetary 
 
 I enjoy combining physics, programming, scientific computing, and data analysis to explore scientific questions and deepen our understanding of the Universe. I'm always eager to learn new skills and computational tools that help me tackle new scientific challenges.
 
-## 🔭 Research Interests
+## ✦ Research Interests
 
 *The scientific questions that inspire my curiosity and guide my learning.*
 
@@ -36,7 +36,7 @@ I enjoy combining physics, programming, scientific computing, and data analysis 
 - ✧ Stellar Astrophysics
 - ☾ Astrobiology
 
-## 🛠️ Scientific Toolkit
+## ⊹ Scientific Toolkit
 
 *The tools and technologies I currently use throughout my academic journey and personal projects.*
 
@@ -60,8 +60,7 @@ Streamlit • Gradio
 
 Git • GitHub • Markdown
 
-
-## 🌱 Professional Development
+## ✧ Professional Development
 
 *Always curious, always learning.*
 
