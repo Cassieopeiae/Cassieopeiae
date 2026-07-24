@@ -4,7 +4,7 @@
 
 # 🌌 Welcome to my corner of the Universe
 
-*Exploring the Universe through physics, astronomy, and computational science.*
+*Exploring the Universe through physics and computational science.*
 
 ## Hi, I'm Carolina!
 
