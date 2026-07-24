@@ -30,11 +30,11 @@ I enjoy combining physics, programming, scientific computing, and data analysis 
 
 *The scientific questions that inspire my curiosity and guide my learning.*
 
-- 🪐 Exoplanets
-- 🌠 Planetary System Formation
-- 💫 Protoplanetary Disks
-- ⭐ Stellar Astrophysics
-- ☄️ Astrobiology
+- ✦ Exoplanets
+- ⋆ Planetary System Formation
+- ⊹ Protoplanetary Disks
+- ✧ Stellar Astrophysics
+- ☾ Astrobiology
 
 ## 🛠️ Scientific Toolkit
 
