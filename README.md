@@ -68,5 +68,5 @@ Alongside my university studies, I'm continuously developing new skills through 
 
 - **Google Data Analytics Professional Certificate** *(in progress)*
 - **Samsung Innovation Campus**
-  - Coding & Programming *(in progress)*
-  - Big Data *(starting soon)*
+  - Coding & Programming *(☑️)*
+  - Big Data *(in progress)*
